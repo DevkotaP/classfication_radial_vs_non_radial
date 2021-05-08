@@ -20,3 +20,7 @@ Once the code runs successfully, you should find a new folder named "cropped" in
 python radial_vs_non_radial.py
 ```
 While this code is running, you should be able to see the training and validation score for each epoch of the 7 folds. The average score is also printed at the end.
+
+The scripts are also available in jupyter notebook. You can find two .ipynb files:
+1. image_preprocessing.ipynb: To create new dataset
+2. radial_vs_non_radial.ipynb: To train the model
